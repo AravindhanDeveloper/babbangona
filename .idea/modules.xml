@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/babbangona-access-control-master.iml" filepath="$PROJECT_DIR$/.idea/babbangona-access-control-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BGFR/babbangona-access-control-master.BGFR.iml" filepath="$PROJECT_DIR$/.idea/modules/BGFR/babbangona-access-control-master.BGFR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/babbangona-access-control-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/babbangona-access-control-master.app.iml" />
+    </modules>
+  </component>
+</project>
